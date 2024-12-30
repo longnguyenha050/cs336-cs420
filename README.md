@@ -1,3 +1,4 @@
 - dataset để finetune nằm đây: https://www.kaggle.com/datasets/longnguyenha050/fashioniq2/settings
 - CLIP đã finetune nằm đây: https://www.kaggle.com/datasets/longnguyenha050/clipfinetunepy/settings
 - link google drive webDemo nằm đây: https://drive.google.com/file/d/1-Btvdf5XYSlyW5SxbZ1qI-4doQ2HCXuV/view?usp=drive_link
+- link google drive liên quan đến finetuneCLIP nằm ở đây: https://drive.google.com/file/d/1r2UqVxrmRWCIzTxuYurYp-LYKYOa_PWb/view?usp=drive_link
